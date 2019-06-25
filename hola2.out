@@ -1,0 +1,16 @@
+
+2 -   -   
+2 - 3 -   
+2 - 3 -   
+2 - 3 - 1 
+5 - 3 - 1 
+5 - 2 - 1 
+5 - 2 - 4 
+
+
+Las estadisticas del cache realizado: 
+
+Cantidad de Hit obtenidos: 1 
+Cantidad de Miss obtenidos: 6 
+Tasa de Hit: 14.285715 
+Tasa de Miss: 85.714287 
